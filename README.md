@@ -22,6 +22,6 @@ Once your project is generated, you can open it in Xcode, for example, and shoul
 * Dear ImGui - https://github.com/ocornut/imgui
 
 ## Screenshot
-![Alt text](https://github.com/dvorontsov/cmake-test-private/blob/master/screenshots/screenshot-1.PNG)
+![Alt text](https://github.com/dvorontsov/phong-lighting-model-example/blob/master/screenshots/screenshot-1.PNG)
 
 Inspired by https://learnopengl.com
