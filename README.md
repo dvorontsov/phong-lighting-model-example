@@ -1,4 +1,4 @@
-# Phong Lighitng Model Example
+# Phong Lighting Model Example
 
 For information, see this wikipedia page:
 https://en.wikipedia.org/wiki/Phong_reflection_model
